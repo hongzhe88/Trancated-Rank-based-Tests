@@ -1,1 +1,1 @@
-# Truncated-Rank-based-Tests-for-Data-with-Excessive-Zeros
+# Truncated-Rank-based-Tests
